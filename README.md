@@ -1,11 +1,14 @@
 # dune_api_python
 Consuming the Dune API in Python
 
-Currently we have this inside a jupyter notebook.
-We recommend using a virtual environment. And installing the falling dependencies using pip.
+We shall be using Python3. We recommend using a virtual environment and the `pip` package manager.
 
-```bash
-pip install requests
-pip install pandas
-pip install jupyter notebook
+Install the requirements.
+```
+pip install -r requirements.txt
+```
+
+Start the jupyter notebook interface.
+```
+jupyter notebook
 ```
